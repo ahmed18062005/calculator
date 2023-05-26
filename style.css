@@ -1,0 +1,48 @@
+.main{
+ margin: auto;
+    width: 6cm;
+}
+.allbtns{
+    width: 9cm;
+  
+}
+.btns{
+    width: 70px;
+    height: 70px;
+    background-color: black;
+    color: white;
+    font-size: 30px;
+    margin: 2px;
+    border: none;
+    border-radius: 10px;
+}
+.btuns{
+    width: 150px;
+    height: 70px;
+    background-color: green;
+    color: white;
+    font-size: 30px;
+    margin: 2px;
+    border-radius: 10px;
+    border: none;
+}
+
+input{
+    width: 8.3cm;
+    height: 1.8cm;
+    font-size: 50px;
+    text-align: right;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    border: none;
+    background-color: lightblue;
+}
+  
+ 
+.calculater{
+    padding-top: 100px;
+    
+}
+#b{
+    width: 140px;
+}
